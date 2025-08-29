@@ -15,7 +15,7 @@ mcp==("Going Bananas with the mono compiling"
       "Dude, it became so serious, that a literral lawyer talks about it" 
       "I had to use cloud gaming just to play me fucking Genshin Impact just because my computer sucks" 
       "Reccomending you to play terraria..." 
-      "DO NOT play pirated minecraft in china or in thailand, there may be dragons" 
+      "DO NOT play pirated minecraft in china or in thailand, there may be dragons." 
       "What do you mean roblox sucks?"
       "As if i didn't see that comming..."
 
