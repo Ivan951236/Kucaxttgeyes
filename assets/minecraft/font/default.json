@@ -1,0 +1,44 @@
+{
+    "providers": [
+      {
+        "type": "caxton",
+        "regular": {
+          "file": "tuivans:ubuntutuivansedition.ttf",
+          "scale_factor": 1.2,
+          "shadow_offset": 0.5,
+          "shift": [0.0, 0.0]
+        },
+        "bold": {
+          "file": "tuivans:ubuntutuivanseditionbold.ttf",
+          "scale_factor": 1.2,
+          "shadow_offset": 0.5,
+          "shift": [0.0, 0.0]
+        },
+        "italic": {
+          "file": "tuivans:ubuntutuivanseditionitalic.ttf",
+          "scale_factor": 1.2,
+          "shadow_offset": 0.5,
+          "shift": [0.0, 0.0]
+        },
+        "bold_italic": {
+          "file": "tuivans:ubuntutuivanseditionbolditalic.ttf",
+          "scale_factor": 1.2,
+          "shadow_offset": 0.5,
+          "shift": [0.0, 0.0]
+        }
+      },
+      {
+        "id": "minecraft:include/space",
+        "type": "reference"
+      },
+      {
+        "id": "minecraft:include/default",
+        "type": "reference"
+      },
+      {
+        "id": "minecraft:include/unifont",
+        "type": "reference"
+      }
+    ]
+  }
+  
