@@ -1,7 +1,7 @@
 ﻿{
   "pack": {
     "pack_format": 34,
-    "description":"§bMade by Ivan95§r;Request §eCaxton 0.5.*§r;\nFont: §fUbuntu Fonts§r",
+    "description":"Made by Ivan95, Made for and requires caxton, otherwise the fonts are not rendered! Blue apples and blue cookies...",
     "supported_formats": [34, 999]
   }
 }
