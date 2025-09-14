@@ -1,5 +1,5 @@
 # Kucaxttgeyes
-A Texture Pack (which is pronounced "Ku Caxts thy ki eyes") for JE with Caxton mod installed.
+A Texture Pack (which is pronounced "Ku Caxts thi ki eyes") for JE with Caxton mod installed.
 
 The one Texture Pack that brings Ubuntu Desktop's Fonts (Differents versions are available as different editions)
 
